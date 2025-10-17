@@ -58,7 +58,7 @@ This project is running with Django
 
 In order to have the current version of the api you need to use the following command 
 
-'''
+```
   python manage.py print_version
 
-'''
+```
