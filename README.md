@@ -53,3 +53,12 @@ Here is a pre-start checklist:
 ## Implementation
 
 ** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
+
+This project is running with Django
+
+In order to have the current version of the api you need to use the following command 
+
+```
+  python manage.py print_version
+
+```
